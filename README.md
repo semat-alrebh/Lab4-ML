@@ -65,7 +65,7 @@ The following steps were performed:
 
 ## Files Included
 - `AIJobMarket.csv` → Dataset file  
-- `Lab4_AI_Job_Market.ipynb` → Jupyter Notebook containing the full analysis  
+- `Lab4ML.ipynb` → Jupyter Notebook containing the full analysis  
 
 ---
 
